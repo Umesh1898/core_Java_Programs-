@@ -1,0 +1,16 @@
+Product ID: 101
+Product Name: shoes
+Total Price with 10% Charge: $550.00
+
+Product ID: 102
+Product Name: Watch
+Total Price with 10% Charge: $385.00
+
+Product ID: 103
+Product Name: Jacket
+Total Price with 10% Charge: $1100.00
+
+Product ID: 101
+Product Name: shoes
+Total Price with 10% Charge: $275.00
+
